@@ -11,7 +11,7 @@ namespace Snake
 
         private Canvas _playField;
         
-        private string _colorpath = @"C:\Users\Ivo\Desktop\Ivo\Beruf\1. Lehrjahr\Projekte\Snake\Snake\Snake\Images\red.png";
+        private string _colorpath = @"Your Path";
 
         private int _posX;
 
