@@ -43,7 +43,7 @@ namespace Snake
             this._playField = playfield;
             this.SnakeParts = new List<Image>();
             this.SnakeDriection = Direction.Right;
-            this._colorPath = @"C:\Users\Ivo\Desktop\Ivo\Beruf\1. Lehrjahr\Projekte\Snake\Snake\Snake\Images\black.png";
+            this._colorPath = @"Your Path";
 
             _foodGenerator = new FoodGenerator(_playField);
 
