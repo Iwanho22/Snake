@@ -27,7 +27,7 @@ namespace Snake
         public MainWindow()
         {
             InitializeComponent();
-            field.Source = new BitmapImage(new Uri(@"C:\Users\Ivo\Desktop\Ivo\Beruf\1. Lehrjahr\Projekte\Snake\Snake\Snake\Images\gray.jpg"));
+            field.Source = new BitmapImage(new Uri(@"Your Patth"));
             field.Stretch = Stretch.Fill;
 
             _snake = new SnakeClass(PlayField);
